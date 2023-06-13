@@ -102,14 +102,14 @@ body{
 
   .year_name {
     font-family: fantasy;
-    font-size: 46px;
+    font-size: 51px;
     font-weight: 600;
     padding: 0;
     text-transform: uppercase;
     letter-spacing: -3px;
     color: #4942E4;
-    margin-top: 40px;
-    margin-left: -6px;
+    margin-top: 38px;
+    margin-left: 1px;
   }
 
   .about_content {
